@@ -1,0 +1,35 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Data files (large datasets)
+*.csv
+*.xlsx
+*.rds
+
+# Output files
+*.png
+*.pdf
+*.html
+outputs/*.png
+outputs/*.pdf
+outputs/*.html
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# IDE specific
+.vscode/
+.idea/
