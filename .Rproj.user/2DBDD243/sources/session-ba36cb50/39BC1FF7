@@ -1,0 +1,26 @@
+{
+    "id": "39BC1FF7",
+    "path": "~/Documents/projects/student-performance-analysis/01_data_generation.R",
+    "project_path": "01_data_generation.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1754003453950.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "120,9",
+        "scrollLine": "116"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1754003720,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1754003720658,
+    "read_only": false,
+    "read_only_alternatives": []
+}
