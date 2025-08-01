@@ -1,4 +1,5 @@
 # =============================================================================
+# Minnoli Nori - Bachelor of Science in Statistics
 # Student Performance Analysis - Data Generation
 # Test this part first before building the full analysis
 # =============================================================================

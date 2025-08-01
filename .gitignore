@@ -1,35 +1,154 @@
-# R specific
-.Rproj.user
+# =============================================================================
+# .gitignore for Student Performance Analysis Portfolio Project
+# =============================================================================
+
+# R specific files to ignore
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
 *.Rproj
 
-# Data files (large datasets)
-*.csv
+# R temporary files
+.Rapp.history
+.RDataTmp
+
+# =============================================================================
+# DATA FILES - Be selective for portfolio projects
+# =============================================================================
+
+# Ignore large raw data files, but KEEP your main dataset for portfolio
+raw_data/
+temp_data/
 *.xlsx
 *.rds
 
-# Output files
-*.png
-*.pdf
-*.html
-outputs/*.png
-outputs/*.pdf
-outputs/*.html
+# KEEP the main dataset (comment out the csv line below)
+# *.csv  
 
-# System files
+# If you want to keep specific files, use negation:
+# *.csv
+# !data/student_performance_data.csv
+
+# =============================================================================
+# OUTPUT FILES - Keep key visualizations for portfolio
+# =============================================================================
+
+# Ignore temporary output files
+*_temp.*
+*_draft.*
+temp_outputs/
+
+# Keep main visualizations but ignore drafts/temp versions
+# outputs/*.png
+# outputs/*.pdf  
+# outputs/*.html
+
+# Alternative: Keep only specific important files
+# *.png
+# !outputs/correlation_matrix.png
+# !outputs/regression_diagnostics.png
+
+# =============================================================================
+# SYSTEM FILES
+# =============================================================================
+
+# macOS
 .DS_Store
-Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 
-# Temporary files
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+
+# Linux
 *~
+
+# =============================================================================
+# TEMPORARY FILES
+# =============================================================================
+
+# General temporary files
 *.tmp
 *.temp
+*.bak
+*.swp
+*.swo
 
 # Log files
 *.log
+logs/
 
-# IDE specific
+# Cache directories
+cache/
+__pycache__/
+.cache/
+
+# =============================================================================
+# IDE AND EDITOR FILES
+# =============================================================================
+
+# VSCode
 .vscode/
+*.code-workspace
+
+# IntelliJ/PyCharm
 .idea/
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+
+# =============================================================================
+# PACKAGE MANAGEMENT
+# =============================================================================
+
+# R package development
+*.tar.gz
+*.Rcheck/
+vignettes/*.html
+vignettes/*.pdf
+.httr-oauth
+
+# Node modules (if using any JS tools)
+node_modules/
+
+# Python (if mixing languages)
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# =============================================================================
+# PERSONAL/SENSITIVE FILES
+# =============================================================================
+
+# API keys and secrets
+.env
+.env.local
+secrets.txt
+config/secrets.yaml
+
+# Personal notes
+notes.txt
+TODO.md
+personal_notes/
