@@ -1,0 +1,251 @@
+"student_id","grade_level","gender","socioeconomic_status","parent_education","hours_studying","attendance_rate","has_tutor","extracurricular_activities","teacher_student_ratio","age","math_score"
+1,"Middle","Male","Medium","Some College",3.73496886317651,0.689193982505531,"Yes",1,"Medium",11,88.7163347488943
+2,"Middle","Female","Medium","Some College",3.59772984126354,0.655021620395801,"No",1,"Low",13,100
+3,"Elementary","Male","Low","Bachelor's",2.49705247998452,0.815930008176902,"No",1,"Medium",6,69.2656512818415
+4,"Middle","Male","High","Some College",2.66321146289647,0.867472552733132,"Yes",4,"Medium",13,100
+5,"High","Female","Medium","Some College",1.63581574606825,0.622222243922277,"Yes",3,"Low",15,84.8932824762546
+6,"High","Female","High","Some College",2.26225080393854,0.879052448094708,"Yes",2,"Medium",14,100
+7,"Middle","Male","Low","Bachelor's",1.26494943274207,0.892230635747361,"No",1,"Medium",11,72.3781272358426
+8,"Elementary","Male","Medium","Some College",1.33965292497686,0.979473736320671,"Yes",3,"High",10,96.9054879727867
+9,"High","Male","High","Graduate",1.03502429329709,0.866471401857395,"No",2,"Medium",15,88.8031510868357
+10,"Middle","Female","Medium","Graduate",3.5034492447338,0.870495384080023,"No",2,"Low",11,100
+11,"High","Male","Medium","Graduate",3.83796615819448,0.910460362672581,"No",2,"Medium",14,100
+12,"Middle","Male","Low","High School",2.00446617648749,0.848085923083107,"No",0,"Low",12,81.5044015966128
+13,"Middle","Male","Medium","Some College",1.1452271223918,0.842028565262119,"No",2,"Low",13,83.1626070789387
+14,"Elementary","Female","Medium","Some College",2.39448240186754,0.86159844644028,"No",3,"Medium",9,94.4023137606793
+15,"High","Female","Low","High School",5.19028443197515,0.924417336404839,"No",2,"Medium",17,92.9244551624376
+16,"Middle","Male","Medium","High School",4.94957580490059,0.806870939647231,"Yes",3,"Medium",12,96.5535891035373
+17,"Middle","Female","Medium","Graduate",0.436239595934257,0.800047104808877,"No",0,"Medium",11,85.345454524151
+18,"Elementary","Male","Medium","Bachelor's",2.07171201265314,0.763483792324429,"No",1,"High",6,78.5616997561476
+19,"High","Female","Medium","Bachelor's",4.33993659059475,0.754224271672813,"Yes",2,"High",18,100
+20,"High","Male","Low","Bachelor's",2.45410708406772,0.882679997133864,"Yes",4,"Medium",15,100
+21,"Middle","Male","High","Bachelor's",4.41689589079171,1,"No",1,"Low",12,100
+22,"Elementary","Male","High","Some College",2.09969752802814,0.753114043113557,"No",2,"Medium",7,100
+23,"Middle","Female","High","Bachelor's",3.22598310869845,0.831155957374054,"No",3,"Medium",11,100
+24,"Middle","Male","Medium","Some College",2.7690894871003,0.746999883854408,"No",1,"Medium",13,86.3502535683706
+25,"Elementary","Female","Low","High School",6.37488339457607,0.94080864418605,"Yes",3,"Low",8,100
+26,"High","Male","Low","Some College",3.60454308012702,0.818261813529187,"No",2,"High",17,89.2336103252007
+27,"Elementary","Female","Medium","Graduate",1.05215311694089,0.867900396654042,"No",2,"Medium",7,100
+28,"Middle","Male","High","Graduate",1.77534259700408,0.884802818772918,"No",2,"Medium",12,100
+29,"High","Male","Medium","High School",2.94428234154647,0.744572097872556,"Yes",3,"Medium",17,84.3947655799435
+30,"Middle","Male","Medium","Graduate",0.218799223984472,0.83952557118893,"Yes",3,"Medium",13,100
+31,"Middle","Female","High","High School",0.334708066044109,0.827165738290547,"No",1,"Medium",13,80.1752566606143
+32,"Middle","Female","Medium","High School",1.15381287237374,0.917535556242754,"No",3,"Medium",13,62.1075731737924
+33,"Elementary","Male","Low","Bachelor's",2.08248447212903,0.726675530649369,"No",4,"Medium",8,67.0691331226815
+34,"High","Female","Low","Some College",3.98668257835838,0.730003845557722,"No",3,"Medium",18,64.1897380699221
+35,"Elementary","Female","Medium","High School",2.17096292217727,0.926586657661611,"No",3,"Medium",7,100
+36,"Middle","Male","Medium","Some College",2.69485685866983,0.791190213871702,"No",0,"High",12,80.305271765827
+37,"Elementary","Male","Medium","Some College",2.42247170829632,0.783970417002442,"No",4,"Medium",10,64.9666213495865
+38,"Elementary","Male","Low","High School",1.65371548356983,0.861301352219734,"No",0,"Low",9,74.3909473675797
+39,"Middle","Male","Low","Bachelor's",4.13463672250119,0.817960120031396,"No",1,"Low",12,96.0299077951969
+40,"High","Male","Medium","Some College",1.18418417430002,1,"No",2,"Medium",14,84.3583164532974
+41,"Elementary","Male","Low","Graduate",2.22587977774373,0.87595314557678,"Yes",1,"Medium",9,90.7223043292562
+42,"High","Female","High","Bachelor's",2.08260630326768,0.866156007091807,"No",2,"Medium",17,91.3690190345684
+43,"Elementary","Male","Low","High School",3.13855434340808,0.943107490933535,"No",2,"Medium",6,88.0433514336897
+44,"Middle","Male","Medium","Some College",4.42868147471343,0.844005325074038,"Yes",1,"High",13,89.1342736575585
+45,"High","Female","Low","Bachelor's",3.11657743133991,0.854873970007745,"Yes",1,"Medium",18,93.4551724741091
+46,"Middle","Female","Low","Some College",4.15884779268763,0.742712459926604,"Yes",4,"Medium",12,99.3710183663823
+47,"Middle","Male","Low","Bachelor's",3.41571645825988,0.620702856951933,"Yes",0,"Medium",13,90.2566993393527
+48,"High","Male","Medium","Some College",1.75049854643907,0.729279314993566,"No",1,"Low",15,77.9895659622654
+49,"Middle","Male","Medium","High School",2.59785256051478,0.861410942979719,"No",2,"Medium",11,78.0396063496691
+50,"High","Female","Medium","Some College",4.15129493363772,0.746670292089462,"No",2,"Low",18,99.2177955041129
+51,"Elementary","Male","High","Graduate",0.626481056611551,0.918880775234206,"No",2,"Medium",10,94.1048486823374
+52,"Elementary","Female","Medium","Graduate",2.88972479271364,0.922508301767486,"No",4,"High",7,100
+53,"Elementary","Female","Low","Some College",2.31185161965731,0.871738021093909,"No",4,"Medium",9,83.1635912332465
+54,"Middle","Female","Medium","Bachelor's",3.55334063288122,0.829834326838162,"Yes",2,"Medium",11,100
+55,"Elementary","Male","Medium","Bachelor's",3.40019989021677,0.713431013941132,"Yes",3,"Low",10,100
+56,"Middle","Male","Medium","Some College",2.8612640846114,0.819106239132284,"No",3,"Medium",11,72.8232126457199
+57,"High","Female","High","Bachelor's",4.29137334067517,0.804709711346277,"No",3,"High",18,86.5782057186701
+58,"Elementary","Male","Medium","Some College",0.669407439796359,0.916322914451979,"No",0,"Medium",9,64.0818704723764
+59,"Elementary","Male","High","Some College",3.59286107018323,0.98086295367487,"No",0,"High",10,99.8572057827439
+60,"High","Female","Low","Bachelor's",0.604561566570953,0.90010403098945,"No",0,"High",16,64.5049365333485
+61,"High","Female","Low","Some College",3.2052595085423,0.737171146480263,"No",2,"Medium",14,69.1722025011599
+62,"Middle","Female","Medium","Graduate",2.60757075520087,1,"No",0,"Medium",11,97.2181332061884
+63,"Middle","Female","Medium","Bachelor's",3.66071398833981,0.951035303245212,"No",0,"Medium",13,100
+64,"High","Female","Medium","High School",2.59457482349779,0.872352121587446,"No",0,"Medium",16,63.7585491366861
+65,"Middle","Male","Medium","High School",0.617560196216692,0.629351540679038,"No",3,"High",11,65.7436269391494
+66,"Elementary","Female","Medium","High School",0.0906121791806913,0.754541438144684,"Yes",1,"High",10,69.1276785340667
+67,"Elementary","Male","Low","Graduate",3.14916822908652,0.843142693278976,"No",1,"High",8,76.7709236721551
+68,"Middle","Female","Medium","Some College",2.41194808226989,0.926130590156527,"No",2,"High",12,81.1274847040311
+69,"High","Male","Low","Some College",1.8147779277303,0.732009580004171,"No",1,"Medium",17,76.285274975981
+70,"Elementary","Male","Low","Bachelor's",2.12671784817563,1,"Yes",0,"Medium",7,100
+71,"Elementary","Male","Low","Some College",1.69430191947836,0.594617514904917,"No",3,"Medium",7,80.1459141366735
+72,"Elementary","Male","Medium","High School",2.31119145750282,0.826406605066593,"No",4,"Medium",10,88.3228936186505
+73,"Elementary","Male","High","Bachelor's",1.38243391480016,0.824043735673857,"Yes",1,"Low",7,100
+74,"High","Female","Medium","Some College",0.120388624635842,0.783663308338081,"No",4,"Low",15,86.5034213560939
+75,"Elementary","Male","Medium","Some College",2.23648023490075,0.818100928917385,"No",2,"Medium",6,82.3253272286384
+76,"Middle","Female","Low","Graduate",3.75433104335487,0.924239515757232,"No",4,"Medium",12,95.7119983260225
+77,"Elementary","Male","Medium","Some College",4.7527954795596,0.762570732421423,"No",0,"Low",6,100
+78,"Elementary","Female","Medium","Some College",2.5031274351486,0.641718623369672,"Yes",3,"Medium",10,96.1309698694962
+79,"High","Female","Low","Some College",2.403196078349,0.859376790281022,"No",3,"Medium",15,92.0010894794589
+80,"Elementary","Male","Low","Some College",3.65557873748784,0.84981801879972,"No",0,"Medium",8,95.9362073328047
+81,"High","Male","Medium","Some College",2.56428521985582,0.848689934762843,"No",2,"Low",14,100
+82,"Elementary","Female","High","Bachelor's",1.97812190930796,0.91679680745581,"No",1,"Low",7,100
+83,"Elementary","Female","Low","Some College",0.41524329358923,0.848683229704784,"No",1,"Medium",9,64.6590029443041
+84,"High","Male","Low","Bachelor's",0.983565280261079,0.92760470304763,"No",2,"High",16,72.1091817567856
+85,"Middle","Female","Medium","Bachelor's",2.98757021448313,0.648926466736474,"No",1,"Medium",12,83.7662803514556
+86,"High","Female","Medium","High School",0.748415238664291,0.73718195050282,"No",2,"High",15,53.4187422302334
+87,"Elementary","Female","High","Some College",3.75814884418564,0.884879957158572,"No",1,"High",10,91.2850146531522
+88,"Elementary","Female","High","High School",0.884283352659756,0.814710151790308,"No",1,"Low",7,92.1481990550037
+89,"Elementary","Female","Medium","Graduate",2.26771533026381,0.944477459791762,"Yes",3,"Medium",8,100
+90,"Elementary","Male","Low","Some College",2.49719685146359,0.749528014747354,"No",2,"Low",6,66.4105383490283
+91,"High","Male","Medium","High School",2.48460431935937,0.922390273249685,"Yes",3,"High",16,99.2971447269246
+92,"Elementary","Male","High","High School",2.68233678638128,0.783116725900963,"No",0,"High",6,91.6477656345135
+93,"Elementary","Male","Medium","Some College",3.21821335768129,0.73869598062842,"No",2,"Medium",6,100
+94,"Middle","Male","High","Bachelor's",2.34854507524207,0.815719481063305,"No",1,"Medium",11,89.1355522606266
+95,"Middle","Female","High","Bachelor's",2.20175732098387,0.854977932316874,"No",2,"Low",12,100
+96,"Middle","Male","Medium","Some College",2.69239287388555,0.727231803847446,"Yes",3,"Medium",13,89.4554278612026
+97,"Elementary","Female","Low","Some College",1.97962967008328,0.773599408917255,"No",2,"Medium",8,67.3304775244845
+98,"High","Female","Medium","Bachelor's",4.34489490292032,0.725381793838212,"No",0,"Medium",17,90.0927567508487
+99,"Middle","Female","Medium","High School",0,0.951677397775977,"No",2,"High",13,60.4669925660721
+100,"High","Female","Medium","Some College",3.73240554314972,0.922361262405886,"No",1,"Low",16,89.850897542062
+101,"High","Male","Medium","Bachelor's",2.20182048017208,0.746747286289489,"No",3,"Medium",16,86.2507583907056
+102,"Elementary","Male","Medium","High School",3.00678446299887,0.905734600412276,"No",4,"Medium",9,87.9429418985032
+103,"Elementary","Female","Low","Some College",3.68518395236761,0.824441857690048,"No",3,"Medium",7,86.3400951669329
+104,"Elementary","Female","Medium","Bachelor's",3.50268180644203,0.738660824285333,"No",1,"Medium",6,100
+105,"Middle","Female","Low","High School",1.70737376914515,0.89211974396148,"No",0,"Low",12,80.800394598435
+106,"Middle","Male","Medium","Some College",4.3768833919502,0.817704968815363,"No",0,"Medium",12,83.5844313225215
+107,"Middle","Male","Low","Bachelor's",0.552428877650144,0.938017990119152,"Yes",1,"High",12,77.7083505490692
+108,"Middle","Male","Medium","Graduate",3.53667564817479,0.83051363932241,"Yes",3,"Medium",13,100
+109,"High","Female","Medium","Bachelor's",1.88607667187656,0.968805498210378,"No",0,"Medium",15,88.5639287295781
+110,"Elementary","Male","Low","Graduate",0.199161969465518,0.799023548823205,"No",3,"Low",6,93.3610508606623
+111,"High","Male","Medium","Graduate",0.261023381656062,0.871954801087329,"Yes",3,"Medium",18,95.1998623449508
+112,"Middle","Male","Low","High School",2.79421487612763,0.887029442136456,"Yes",2,"Medium",13,94.1059410806526
+113,"Middle","Male","Low","Some College",5.16824116228968,0.877910839373061,"No",1,"High",11,87.4128075997584
+114,"High","Female","Medium","Some College",2.82805127697336,0.870194243731332,"Yes",1,"Low",15,91.765932931688
+115,"High","Male","High","Some College",3.85694175343394,0.848700345756866,"Yes",2,"Medium",17,100
+116,"High","Female","High","Graduate",3.50640324887212,0.840913499392251,"Yes",1,"High",14,100
+117,"Elementary","Female","Medium","Some College",1.71446166654615,0.986503136531884,"No",1,"Medium",8,95.8604376439902
+118,"Elementary","Female","Medium","Some College",3.64475317417527,0.940813056888317,"No",1,"Medium",8,67.1755020379021
+119,"High","Male","Medium","Bachelor's",2.92354175858719,0.789011182859809,"Yes",1,"Medium",14,100
+120,"Middle","Female","Medium","Some College",2.74791915117954,0.989643722121945,"No",4,"Medium",13,100
+121,"Elementary","Male","Medium","High School",3.7013358811723,0.864479837330845,"No",1,"Low",9,90.3727121188846
+122,"High","Male","Low","Graduate",3.39694238996833,0.78593932284047,"No",2,"Medium",14,87.8408348702809
+123,"High","Female","Medium","Some College",1.74811019593223,0.866980225955853,"No",2,"High",15,74.8768139970314
+124,"High","Male","Low","High School",2.97426842312406,0.834281251257916,"Yes",2,"Medium",17,58.4121990025699
+125,"Middle","Male","Medium","Bachelor's",1.42939845514531,0.86009395945461,"No",2,"High",13,71.1677797410949
+126,"Elementary","Female","Low","High School",3.25698209211013,0.752660584585172,"Yes",1,"Medium",7,77.5187785158321
+127,"Middle","Male","Medium","Some College",1.98075378005852,0.76801747247468,"No",2,"Medium",12,89.9777350057218
+128,"Middle","Female","Medium","Bachelor's",3.04256637306222,0.986291896902543,"No",2,"High",13,97.7856164233279
+129,"Elementary","Male","Low","Graduate",2.94159885423561,0.946137093053128,"No",1,"Medium",6,100
+130,"Middle","Male","Medium","Bachelor's",2.17553501240571,0.761627552559889,"No",1,"Medium",13,78.0217674865651
+131,"Middle","Female","Medium","Graduate",3.05861514125557,0.759990788456368,"No",3,"Medium",12,100
+132,"High","Female","Medium","High School",3.18922747075236,1,"No",4,"Medium",14,100
+133,"High","Female","Medium","High School",2.22316001181111,1,"No",3,"Medium",18,95.2880673738199
+134,"Middle","Male","Medium","High School",3.90669100996294,0.772285880414474,"Yes",3,"Low",12,99.6955070217349
+135,"Middle","Male","Low","Graduate",4.17124324807975,0.719769473738689,"No",3,"High",11,98.2627995975161
+136,"High","Female","Low","Some College",1.7056104931485,1,"Yes",0,"Low",16,82.3271932202981
+137,"Middle","Female","Medium","Some College",1.56715695192998,0.872962891434681,"Yes",3,"Low",12,89.9721699443531
+138,"Elementary","Male","Low","Some College",3.11624629469054,0.868674989214189,"Yes",2,"Low",10,72.0422795732582
+139,"Middle","Male","High","High School",1.40402531435047,0.857613663495028,"No",2,"Medium",11,89.2573053642285
+140,"High","Female","Low","High School",1.96069143369964,0.990486018632133,"No",3,"High",14,46.2963307443805
+141,"Elementary","Male","Medium","Some College",3.46351923892434,0.830827776466368,"Yes",0,"Medium",6,95.3073693319191
+142,"Elementary","Male","Medium","Bachelor's",1.81182777882268,0.995939216415609,"No",1,"Medium",8,100
+143,"High","Male","Low","High School",0.186249798582008,0.827934454886546,"No",1,"Low",16,70.9443947260676
+144,"Middle","Female","High","Bachelor's",3.29726900058658,0.900514588627314,"No",3,"Medium",11,100
+145,"Middle","Male","Low","Bachelor's",0.576951731446897,0.746650299392712,"No",1,"Medium",13,75.9033822283139
+146,"Middle","Female","Low","Graduate",0.874479691055381,0.867047347145922,"Yes",3,"Medium",12,86.4585137794279
+147,"Elementary","Male","Medium","Bachelor's",0,0.970066816089193,"No",3,"High",9,90.7101624072575
+148,"Middle","Female","Medium","Some College",3.49748538667608,0.833659408523426,"Yes",4,"Low",13,100
+149,"Elementary","Male","High","High School",2.80131650661681,0.978247586312264,"No",3,"Medium",10,82.4898754299749
+150,"Elementary","Male","High","High School",3.0547521591296,1,"No",4,"Medium",6,100
+151,"Middle","Female","Medium","Some College",3.51375066786788,0.944192421733092,"Yes",1,"Medium",12,84.5025864499115
+152,"Elementary","Female","High","Some College",2.44963417081413,0.825138596272044,"No",1,"Medium",6,83.7188102977158
+153,"Middle","Female","High","Bachelor's",1.17330891315997,0.859647885970648,"No",2,"Medium",13,93.0589132315791
+154,"Elementary","Male","Low","Some College",3.17653078279705,0.806606905869826,"No",3,"Low",7,80.2775443835869
+155,"High","Female","Low","Bachelor's",4.0640377069836,1,"No",3,"Low",18,100
+156,"Middle","Female","Medium","Graduate",0.699734874646411,0.554122038086988,"Yes",0,"Low",13,90.0094974433365
+157,"Elementary","Female","Medium","Some College",1.77161291785716,0.858088823919911,"No",3,"Medium",8,76.8104999583306
+158,"Elementary","Male","Medium","Some College",2.14930592121211,0.861013780461722,"No",1,"Medium",6,77.8484864869153
+159,"Elementary","Female","Medium","Bachelor's",0.952379988011676,0.871344832631265,"No",4,"Low",9,91.8634503851583
+160,"High","Male","Medium","Some College",3.33292701852964,0.694218038736768,"Yes",3,"Low",15,100
+161,"Middle","Female","Low","Bachelor's",1.78098171652346,0.871621154625776,"No",4,"Low",12,97.1663145122776
+162,"High","Male","High","Some College",4.00828797276596,0.868766381702644,"Yes",2,"Medium",15,100
+163,"High","Male","Medium","Graduate",2.56420961635284,0.97586221252136,"No",1,"Medium",18,100
+164,"Elementary","Female","High","Graduate",3.37371102120622,0.902351778090896,"Yes",2,"Low",7,100
+165,"High","Female","Medium","High School",4.37331768185273,0.961545427747996,"No",0,"Medium",16,83.6345293090512
+166,"Elementary","Male","Low","High School",2.81874970431663,0.754249775782953,"No",3,"Medium",8,70.657030411353
+167,"High","Male","Low","Graduate",3.79207151104872,0.837559442014457,"No",3,"High",14,91.0365673697715
+168,"Elementary","Female","Medium","Bachelor's",2.75283751801509,0.869173782904997,"Yes",4,"Medium",8,100
+169,"Elementary","Male","High","Some College",0.685991769013158,0.877221725060335,"No",1,"Medium",8,80.920822134309
+170,"Elementary","Female","Medium","Some College",2.52688271189635,0.780618553632675,"No",2,"Medium",6,81.7851013006543
+171,"Middle","Female","Medium","High School",3.36176344725052,0.997917192085213,"No",1,"Medium",11,81.906230417601
+172,"High","Female","Low","Graduate",3.08734842141072,0.788823297835723,"No",2,"Medium",18,92.0362224329983
+173,"High","Female","Medium","Graduate",2.29133398494608,0.688569002564065,"No",4,"Medium",14,86.2397362965519
+174,"High","Female","Medium","Some College",1.03876061359792,0.890249011059067,"No",3,"Medium",15,87.5596133500003
+175,"High","Male","Medium","High School",3.27567804245135,0.916455544728948,"No",3,"Medium",18,86.3443082754512
+176,"Elementary","Male","Medium","Graduate",1.40025276598253,0.944412707099494,"No",1,"Medium",10,100
+177,"Middle","Female","Medium","Some College",0.997811869089321,0.755373920229171,"No",4,"High",11,76.4668981472006
+178,"High","Male","Medium","Bachelor's",3.2139132620866,0.82517115507611,"No",0,"Medium",14,88.9550923815424
+179,"Middle","Male","Medium","Some College",1.02062720177221,0.717156353146092,"Yes",2,"Medium",13,79.3142347649474
+180,"Middle","Female","Medium","Bachelor's",2.79323729788736,0.934476374209892,"No",1,"Low",13,100
+181,"Middle","Female","Medium","Bachelor's",2.50332662241231,0.884769673243865,"No",2,"Medium",12,100
+182,"Middle","Male","High","Graduate",0.906148376769322,0.941376258643111,"Yes",0,"Low",11,100
+183,"Elementary","Male","Low","Graduate",3.91563569419933,0.910827455338068,"No",0,"High",6,93.2941343523389
+184,"Elementary","Female","High","Graduate",1.78863400102129,0.789245201219551,"Yes",2,"High",7,88.7003033013523
+185,"Middle","Female","Medium","High School",3.93997397960401,0.867965807087184,"No",1,"Medium",12,89.6124663949614
+186,"Middle","Female","High","Some College",1.92995958446544,0.659159058058262,"Yes",1,"High",13,70.8332065244925
+187,"Middle","Female","Medium","Some College",1.80993148461902,0.90029462576891,"No",3,"Medium",11,88.8217862303902
+188,"Middle","Female","Medium","Some College",2.4625287704698,0.94688991534785,"No",0,"Medium",13,80.5799080441545
+189,"Elementary","Male","Low","Some College",2.07033160482585,0.762426287422667,"No",3,"Low",9,77.7936490604513
+190,"Elementary","Male","Low","High School",2.07207870682272,0.636397546130199,"Yes",2,"Low",6,63.0154365034523
+191,"Elementary","Male","Low","Bachelor's",1.44680273987953,0.697717241841499,"No",3,"Medium",8,74.4991115084302
+192,"Middle","Male","Medium","Bachelor's",1.04452344978644,0.738688179211393,"No",0,"Medium",11,94.9645521605639
+193,"Elementary","Female","High","Some College",3.23594394242444,0.97409838955359,"Yes",3,"Medium",8,100
+194,"Elementary","Male","High","Some College",1.53255599024503,0.850348193506299,"Yes",2,"Medium",9,75.7903091899418
+195,"Elementary","Male","Medium","High School",0.848251684109326,0.726220541400693,"No",2,"Medium",9,52.746857572677
+196,"Elementary","Female","Low","Bachelor's",1.89058252100374,0.905569911889803,"No",2,"Medium",9,70.4671562668916
+197,"High","Female","Low","Some College",1.53887741591519,0.63168506506401,"No",4,"High",17,47.198824019618
+198,"Elementary","Male","High","High School",0,0.825297554290275,"No",2,"Medium",8,99.8029101653366
+199,"Middle","Male","High","Bachelor's",2.15087542087879,0.961285692758645,"Yes",1,"Medium",13,100
+200,"Middle","Female","Medium","Some College",2.70060894539262,0.815832676299091,"No",1,"Low",12,89.0402236171764
+201,"Middle","Female","Low","Some College",2.85363082778283,0.980543834214107,"No",1,"Medium",13,92.3050963177715
+202,"High","Male","Low","Bachelor's",2.97128951850487,1,"Yes",3,"High",16,100
+203,"Middle","Female","Medium","Some College",1.29898754439902,0.733216477252655,"No",2,"Medium",11,83.1944960501369
+204,"High","Female","Low","High School",2.10912745621188,0.734771237501798,"No",2,"Medium",15,83.6918522096012
+205,"Elementary","Male","Low","Bachelor's",1.28998143348539,0.758554453065435,"No",2,"High",10,56.3170698153463
+206,"High","Male","Low","High School",1.73748222155948,0.902872803253363,"No",1,"High",14,50.0090973003865
+207,"Middle","Male","Medium","High School",1.04819117441519,0.933507892704858,"No",3,"Medium",12,91.2607701681945
+208,"High","Female","Medium","High School",1.16024343921677,0.970913697409153,"No",3,"Medium",18,91.5552970060926
+209,"Elementary","Male","Medium","High School",3.25585739509112,0.979947254536082,"Yes",3,"High",7,100
+210,"Elementary","Male","Low","High School",2.17297411578565,0.957573230420989,"No",2,"High",10,72.0254244444534
+211,"High","Female","High","Bachelor's",2.18939059794559,0.94398010235143,"No",1,"High",16,92.9952201553247
+212,"High","Male","High","High School",4.57546981586979,0.866337469340677,"No",2,"Medium",16,100
+213,"Elementary","Female","Medium","Some College",2.42992940151115,0.761186144135961,"No",2,"Medium",10,100
+214,"Elementary","Female","Low","High School",1.8555234584693,0.777383901724365,"No",2,"Medium",6,78.7770476500284
+215,"High","Female","Low","Some College",3.39674403539889,0.890759700561374,"No",3,"Medium",15,71.805966015937
+216,"Middle","Male","Low","Graduate",1.91529059753232,1,"No",2,"Low",13,100
+217,"High","Male","Medium","Some College",4.14748933777541,1,"Yes",0,"Medium",15,100
+218,"Elementary","Female","Medium","Some College",2.04679316722454,0.657383329917392,"No",1,"Medium",6,76.4002984056756
+219,"High","Male","Medium","High School",1.76061686305793,0.766600198477154,"Yes",2,"High",15,73.6434103167425
+220,"Middle","Female","Low","Some College",1.09824993871038,0.991913251633319,"No",3,"Medium",11,65.5110771006315
+221,"High","Male","Medium","Bachelor's",2.8943684303093,0.743589028498076,"No",0,"Medium",17,92.5282424208769
+222,"Elementary","Female","Low","Bachelor's",4.2598127529282,0.688642252751955,"No",3,"Medium",8,100
+223,"High","Female","Medium","High School",2.0727885458933,0.909981108869743,"Yes",2,"Low",18,100
+224,"Middle","Male","Medium","Bachelor's",2.81376117025292,1,"No",4,"Low",13,100
+225,"Elementary","Male","Medium","Some College",2.89999462621088,1,"No",2,"Low",8,93.1368140184758
+226,"Middle","Female","High","Some College",4.20663188837145,0.903282057567079,"No",1,"Medium",13,100
+227,"Elementary","Male","Medium","Some College",3.29665192079941,0.921966575601978,"Yes",2,"Medium",9,96.2476028085623
+228,"Elementary","Male","Medium","Bachelor's",1.21161381316563,0.906009338575518,"No",1,"High",7,87.3319430449578
+229,"Elementary","Female","Medium","High School",1.66371787039991,0.848191306834003,"No",2,"Medium",8,75.8886082317866
+230,"Elementary","Female","Low","Some College",1.60464345167853,0.512826091744949,"No",3,"Low",6,95.5784218444244
+231,"Elementary","Female","Medium","Bachelor's",2.66988744655866,0.926070324475975,"No",3,"Medium",8,98.7093374186782
+232,"Elementary","Female","High","Some College",2.49526333512322,0.810877314775679,"Yes",4,"Low",6,100
+233,"Elementary","Female","High","Bachelor's",2.94152500131012,0.950990122381185,"Yes",1,"Medium",9,100
+234,"Elementary","Male","High","High School",1.7111885023633,0.787302685292625,"No",2,"Low",10,84.622448539006
+235,"Middle","Female","Medium","Bachelor's",2.04838399580674,0.686542263049813,"No",2,"Medium",12,95.1793287398719
+236,"Middle","Male","Medium","Some College",3.3896320725101,0.974524265203048,"Yes",1,"Low",11,100
+237,"Elementary","Male","Medium","Graduate",2.38047189226184,0.86813774465554,"Yes",1,"Medium",10,100
+238,"Middle","Male","Low","Some College",1.71485214567149,1,"No",3,"High",13,70.7554583928446
+239,"High","Female","Low","Some College",3.66539724887352,0.941559191332691,"Yes",1,"Medium",14,64.7046073738023
+240,"High","Female","High","Graduate",2.51619557388206,0.954850651742624,"Yes",1,"Medium",14,100
+241,"Elementary","Female","High","High School",1.40015839957415,0.926382493693486,"No",4,"Medium",10,95.6336834567435
+242,"High","Male","Low","Some College",4.55162627351396,0.78966126231406,"No",3,"Medium",14,78.8102116334785
+243,"Elementary","Female","Low","High School",1.09827881206401,0.812957033729722,"Yes",4,"Medium",7,89.6406762692497
+244,"Elementary","Male","High","Graduate",0.362756487816971,0.955982593833365,"No",0,"Medium",7,89.4241244807079
+245,"High","Female","High","Some College",0,0.955511052983939,"Yes",0,"Medium",15,75.4409766621502
+246,"High","Female","Medium","Some College",3.28135116345604,0.908297216112032,"No",1,"High",16,76.8694480110059
+247,"Elementary","Male","Medium","Bachelor's",1.86060084927668,0.751343256446046,"No",2,"High",7,68.5133792812927
+248,"Elementary","Female","Low","Some College",2.16932877163326,1,"No",1,"Medium",7,87.7434168754428
+249,"High","Female","High","Bachelor's",2.84755236715485,0.713315895431737,"No",2,"Medium",17,100
+250,"Middle","Male","Medium","Some College",1.94021912585108,0.806678565138889,"No",3,"High",12,73.2676238090169
